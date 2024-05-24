@@ -13,8 +13,7 @@ The Library Management System is a Java-based application designed to manage a l
 ## Technologies Used
 - **Programming Language:** Java
 - **Database:** SQLite
-- **GUI Framework:** Swing (Optional, if used)
-- **Build Tool:** Apache Maven or Gradle (Optional, if used)
+
 
 ## System Requirements
 - **Java Development Kit (JDK):** Version 8 or higher
